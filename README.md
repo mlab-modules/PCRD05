@@ -10,7 +10,7 @@
 <!--- Name:PCRD05A: --->
 # PCRD05A
 <!--- LongName --->
-## 
+Experiment with [silicon-photomuliplier](https://en.wikipedia.org/wiki/Silicon_photomultiplier) (SiPM). 
 <!--- ELongName ---> 
 
 <!--- Lead --->
