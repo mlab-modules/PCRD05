@@ -1,10 +1,11 @@
-description: Silicon photomiltiplier radiation detector
+description: Silicon photomultiplier based radiation detector
 github_branch: PCRD05A
 github_branches:
 - PCRD05A
 github_repo: PCRD05
 github_url: https://github.com/mlab-modules/PCRD05
 homepage: false
+image: doc/img/PCRD05A_QRcode.png
 image_title: doc/img/PCRD05A_QRcode.png
 images:
 - doc/img/PCRD05A_QRcode.png
